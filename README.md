@@ -1,2 +1,2 @@
 # Intern Work and Progress 
-Original coref-master folder is by https://github.com/mandarjoshi90/coref
+Coreferece Resolution Project: Original coref-master folder is by https://github.com/mandarjoshi90/coref (Credit)
